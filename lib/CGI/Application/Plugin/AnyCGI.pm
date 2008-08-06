@@ -15,11 +15,11 @@ with CGI::Application (instead of CGI.pm)
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-$CGI::Application::Plugin::AnyCGI::VERSION = '0.01';
+$CGI::Application::Plugin::AnyCGI::VERSION = '0.02';
 
 ## to enable debugging, set this to "1" or any other "true" value
 $CGI::Application::Plugin::AnyCGI::DEBUG = 0;
@@ -284,7 +284,7 @@ be "CGI.pm independent".
 
 =head1 AUTHOR
 
-Bianka Martinovic, C<< <mab at cpan.org>> >
+Bianka Martinovic, C< <<mab at cpan.org>> >
 
 =head1 BUGS
 
